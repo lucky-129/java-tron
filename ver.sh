@@ -1,4 +1,4 @@
-#!/bin/bash
+ii#!/bin/bash
 set -x 
 currentBranch=`git rev-parse --abbrev-ref HEAD`
 
